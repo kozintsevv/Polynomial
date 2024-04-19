@@ -1,3 +1,8 @@
 doc/
 x64/
 .vs/
+alg1_project/Symbol.h
+alg1_project/alg1_project.vcxproj.user
+alg1_project/Symbol.cpp
+alg1_project/alg1_project.vcxproj.filters
+alg1_project/alg1_project.vcxproj
